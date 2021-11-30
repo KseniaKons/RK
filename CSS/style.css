@@ -63,7 +63,15 @@
  
     height: 200px;
     width: 200px;
+    margin-left: 20px;
+    margin-bottom: 20px;
 
 
+}
+
+.dd
+{
+    display: flex;
+    flex-direction: row;
 }
 
